@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj": {}
+    "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Pruebas unitarias\\Pruebas unitarias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj": {
+    "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Pruebas unitarias\\Pruebas unitarias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
-        "projectName": "Repositorios",
-        "projectPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Pruebas unitarias\\Pruebas unitarias.csproj",
+        "projectName": "Pruebas unitarias",
+        "projectPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Pruebas unitarias\\Pruebas unitarias.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Pruebas unitarias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

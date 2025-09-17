@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salak401\\Desktop\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
       "projectName": "Repositorios",
-      "projectPath": "C:\\Users\\salak401\\Desktop\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
+      "projectPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\Repositorios.csproj",
       "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salak401\\Desktop\\TRABAJO-BIBLIOTECA\\Repositorios\\obj\\",
+      "outputPath": "C:\\Users\\salak401\\Downloads\\TRABAJO-BIBLIOTECA\\Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
