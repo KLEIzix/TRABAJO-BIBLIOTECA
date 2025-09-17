@@ -1,0 +1,6 @@
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Downloads\TRABAJO-BIBLIOTECA\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
