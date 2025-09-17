@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salak401\\Desktop\\Libreria\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\salak401\\Desktop\\Libreria\\Repositorios\\Repositorios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salak401\\Desktop\\Libreria\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\salak401\\Desktop\\Libreria\\Repositorios\\Repositorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\Libreria\\Dominio\\Dominio.csproj",
-        "projectName": "Dominio",
-        "projectPath": "C:\\Users\\salak401\\Desktop\\Libreria\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\Libreria\\Repositorios\\Repositorios.csproj",
+        "projectName": "Repositorios",
+        "projectPath": "C:\\Users\\salak401\\Desktop\\Libreria\\Repositorios\\Repositorios.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Desktop\\Libreria\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Desktop\\Libreria\\Repositorios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,23 +51,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.9, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.9, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
             }
           },
           "imports": [

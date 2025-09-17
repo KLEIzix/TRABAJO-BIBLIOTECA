@@ -1,0 +1,11 @@
+C:\Users\salak401\Desktop\Libreria\Repositorios\bin\Debug\net8.0\Repositorios.deps.json
+C:\Users\salak401\Desktop\Libreria\Repositorios\bin\Debug\net8.0\Repositorios.dll
+C:\Users\salak401\Desktop\Libreria\Repositorios\bin\Debug\net8.0\Repositorios.pdb
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.AssemblyInfo.cs
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.dll
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\refint\Repositorios.dll
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\Repositorios.pdb
+C:\Users\salak401\Desktop\Libreria\Repositorios\obj\Debug\net8.0\ref\Repositorios.dll
