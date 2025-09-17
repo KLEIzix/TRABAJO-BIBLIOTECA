@@ -25,3 +25,5 @@ public partial class Usuarios
 
     public virtual ICollection<Sanciones> Sanciones { get; set; } = new List<Sanciones>();
 }
+
+/**/
